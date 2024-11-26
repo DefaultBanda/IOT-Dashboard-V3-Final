@@ -23,17 +23,17 @@ https://github.com/user-attachments/assets/34504fbd-8bdf-4e7c-8c74-3c2241fb5b3f
 ### **Stock Tracker**
 - Fetches live stock prices for selected symbols (AAPL, TSLA, and GOOG) using the Alpha Vantage API.
 - Stocks are updated at regular intervals to keep the data fresh and relevant.
-- Displays pricing trends with a visually appealing design.
+- Displays pricing trends.
 
 ### **3D Printer Monitor**
 - Monitors active print jobs using the OctoPrint API.
 - Displays the print job name, percentage completion, and an animated progress bar.
-- Offers a practical glance at your print job status without needing to access the OctoPrint web interface.
+- Look at print status without needing to access the OctoPrint web interface.
 
 ### **Optimized for Performance**
-- Code refactored for better readability, modularity, and reduced memory footprint.
+- Code fixed forr better readability, modularity, and reduced memory usage.
 - Efficient API calls reduce latency and improve response times.
-- Debugging utilities built into the firmware to assist with troubleshooting connectivity issues.
+- Debugging built into the firmware to help with troubleshooting connectivity issues.
 
 ### **Seamless Page Transitions**
 - Automatically cycles through pages.
