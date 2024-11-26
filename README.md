@@ -86,7 +86,7 @@ https://github.com/user-attachments/assets/34504fbd-8bdf-4e7c-8c74-3c2241fb5b3f
 ---
 
 ## Setup Instructions
-
+BTW Hello is redacted update those with ur own info
 1. **Open the Project in Arduino IDE**
    - Place the code in the `src/main.ino` file.
 
